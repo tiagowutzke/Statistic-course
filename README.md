@@ -7,6 +7,7 @@ This repository, contains Jupyter Notebooks to follow up the course "Statistics 
 The course contains the following subtopics:
 
 [**1 - Knowing the dataset**](#)
+
 Description about the dataset used in whole this course.
 
 
