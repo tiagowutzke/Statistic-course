@@ -6,7 +6,7 @@ This repository, contains Jupyter Notebooks to follow up the course "Statistics 
 
 The course contains the following subtopics:
 
-[**1 - Knowing the dataset**](#)
+[**1 - Knowing the dataset**](https://github.com/tiagowutzke/Statistic-course-alura-part-1/blob/master/Statistics%20course%20Part%201%20%20%7C%20Knowing%20the%20data.ipynb)
 
 Description about the dataset used in whole this course.
 
