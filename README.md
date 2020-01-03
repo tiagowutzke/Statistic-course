@@ -10,5 +10,6 @@ The course contains the following subtopics:
 
 Description about the dataset used in whole this course.
 
+[**2 - Frequency distribution**](https://github.com/tiagowutzke/Statistic-course-alura-part-1/blob/master/Statistics%20course%20Part%201%20%7C%202%20-%20Frequency%20distribution.ipynb)
 
-
+Using some functions to help check the data distribution and plotting it in charts
